@@ -1,2 +1,4 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+* Create your favorite lyric's list
+* Used API GraphQL 
+* Stack: React, React Router, Apollo, NodeJS, Express, MongoDB
